@@ -1,2 +1,2 @@
 # Algoritma Analizi
- Algoritma Analizi Ders Notları
+Algoritma Analizi Dersinde Ödev Verilen Algoritmalar Ve Fonksiyon Kodları
